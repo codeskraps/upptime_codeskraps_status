@@ -25,6 +25,14 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Codeskraps
       href: https://codeskraps.com
+  theme: dark # Options: light, dark, night
+  themeColor: "#1a1a1a" # Primary color for the theme
+  favicon: https://repo.codeskraps.com/codeskraps/Blog/src/main/static/favicon.ico
+  metaTags:
+    - name: "description"
+      content: "Codeskraps services status page - real-time monitoring"
+    - name: "viewport"
+      content: "width=device-width, initial-scale=1.0"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
