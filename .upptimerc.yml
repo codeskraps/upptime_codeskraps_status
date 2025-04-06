@@ -33,6 +33,8 @@ status-website:
       content: "Codeskraps services status page - real-time monitoring"
     - name: "viewport"
       content: "width=device-width, initial-scale=1.0"
+    - name: "theme-color"
+      content: "#1a1a1a"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
