@@ -21,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.codeskraps.com
   # baseUrl: /upptime_codeskraps_status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/codeskraps/upptime_codeskraps_status/master/assets/favicon.ico
   name: Codeskraps Status
   introTitle: "**Codeskraps Status** is the uptime monitor and status page for Codeskraps services."
   introMessage: This page provides real-time status information for Codeskraps services.
@@ -33,15 +33,15 @@ status-website:
     - title: Codeskraps
       href: https://codeskraps.com
   theme: dark # Options: light, dark, night
-  themeColor: "#1a1a1a" # Primary color for the theme
-  favicon: https://repo.codeskraps.com/codeskraps/Blog/src/main/static/favicon.ico
+  themeColor: "#2fe7ed" # Primary color for the theme
+  favicon: https://raw.githubusercontent.com/codeskraps/upptime_codeskraps_status/master/assets/favicon.ico
   metaTags:
     - name: "description"
       content: "Codeskraps services status page - real-time monitoring"
     - name: "viewport"
       content: "width=device-width, initial-scale=1.0"
     - name: "theme-color"
-      content: "#1a1a1a"
+      content: "#2fe7ed"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
