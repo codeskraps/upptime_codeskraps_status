@@ -7,6 +7,10 @@ repo: upptime_codeskraps_status # The name of this repository
 sites:
   - name: codeskraps.com
     url: https://codeskraps.com
+  - name: Repo
+    url: https://repo.codeskraps.com/codeskraps
+  - name: Umami Dashboard
+    url: https://umami.codeskraps.com/dashboard
   # Add more websites here as needed
   # - name: Another Site
   #   url: https://another-site.com
