@@ -52,5 +52,10 @@ status-website:
     - name: "theme-color"
       content: "#2fe7ed"
 
+# Notifications configuration
+notifications:
+  email:
+    - me@codeskraps.com
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
