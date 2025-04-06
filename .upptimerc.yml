@@ -10,9 +10,13 @@ workflowSchedule:
   responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
-  updateTemplate: "0 0 1 * *"
+  updateTemplate: "0 0 1 * *" # Only once a month
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+workflowsOnly: true
 
 sites:
   - name: codeskraps.com
