@@ -14,10 +14,12 @@ workflowSchedule:
   updateTemplate: "0 0 1 * *" # Only once a month
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
+
+# Repository configuration
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
-workflowsOnly: true
+workflowsOnly: false
 
 sites:
   - name: codeskraps.com
@@ -35,17 +37,6 @@ sites:
     __dangerous__body_down_if_text_missing: '"name":"GAMMA_ONE"'
     assignees:
       - codeskraps
-    body: |
-      {
-        "workers": [
-          {
-            "name": "GAMMA_ONE"
-          }
-        ]
-      }
-  # Add more websites here as needed
-  # - name: Another Site
-  #   url: https://another-site.com
 
 status-website:
   baseUrl: /
@@ -61,8 +52,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Codeskraps
       href: https://codeskraps.com
-  theme: dark # Options: light, dark, night
-  themeColor: "#2fe7ed" # Primary color for the theme
+  theme: dark
+  themeColor: "#2fe7ed"
   favicon: https://raw.githubusercontent.com/codeskraps/upptime_codeskraps_status/master/assets/favicon.ico
   apiBaseUrl: https://api.github.com
   metaTags:
