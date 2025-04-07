@@ -2,18 +2,9 @@
 owner: codeskraps # Your GitHub organization or username, where this repository lives
 repo: upptime_codeskraps_status # The name of this repository
 
-# Branch configuration
-branch: source # The branch where your configuration lives
-commitBranch: master # The branch where Upptime will commit status updates
-updateBranch: master # The branch where Upptime will update the template
-readmeBranch: master # The branch where Upptime will update the README
-graphBranch: master # The branch where Upptime will update the graphs
 commitAuthorName: "Upptime Bot"
 commitAuthorEmail: "73812536+upptime-bot@users.noreply.github.com"
 
-# Trigger setup workflow
-# Trigger setup workflow again with fixed setup.yml
-# Triggering setup workflow once more with correct workflow file
 user-agent: codeskraps
 workflowSchedule:
   graphs: "0 0 * * *"
