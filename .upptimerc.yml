@@ -14,12 +14,10 @@ workflowSchedule:
   updateTemplate: "0 0 1 * *" # Only once a month
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
-
-# Repository configuration
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
-workflowsOnly: false
+workflowsOnly: true
 
 sites:
   - name: codeskraps.com
@@ -37,12 +35,17 @@ sites:
     __dangerous__body_down_if_text_missing: '"name":"GAMMA_ONE"'
     assignees:
       - codeskraps
+  # Add more websites here as needed
+  # - name: Another Site
+  #   url: https://another-site.com
 
 status-website:
-  baseUrl: /
-  name: Codeskraps Status
-  logoUrl: https://raw.githubusercontent.com/codeskraps/upptime_codeskraps_status/master/assets/favicon.ico
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.codeskraps.com
+  # baseUrl: /upptime_codeskraps_status
+  logoUrl: https://raw.githubusercontent.com/codeskraps/upptime_codeskraps_status/master/assets/favicon.ico
+  name: Codeskraps Status
   introTitle: "**Codeskraps Status** is the uptime monitor and status page for Codeskraps services."
   introMessage: This page provides real-time status information for Codeskraps services.
   navbar:
@@ -52,10 +55,9 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Codeskraps
       href: https://codeskraps.com
-  theme: dark
-  themeColor: "#2fe7ed"
+  theme: dark # Options: light, dark, night
+  themeColor: "#2fe7ed" # Primary color for the theme
   favicon: https://raw.githubusercontent.com/codeskraps/upptime_codeskraps_status/master/assets/favicon.ico
-  apiBaseUrl: https://api.github.com
   metaTags:
     - name: "description"
       content: "Codeskraps services status page - real-time monitoring"
