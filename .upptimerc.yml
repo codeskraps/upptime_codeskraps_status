@@ -35,6 +35,10 @@ sites:
     __dangerous__body_down_if_text_missing: '"name":"GAMMA_ONE"'
     assignees:
       - codeskraps
+  - name: Chhoto URL
+    url: https://short.codeskraps.com
+    assignees:
+      - codeskraps
   # Add more websites here as needed
   # - name: Another Site
   #   url: https://another-site.com
