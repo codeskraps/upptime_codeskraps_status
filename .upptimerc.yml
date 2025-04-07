@@ -26,6 +26,10 @@ sites:
     url: https://repo.codeskraps.com/codeskraps
   - name: Umami Dashboard
     url: https://umami.codeskraps.com/dashboard
+  - name: Chhoto URL
+    url: https://short.codeskraps.com
+    assignees:
+      - codeskraps
   - name: Mining Worker GAMMA_ONE
     url: https://public-pool.io:40557/api/client/bc1qly6qksz72l3l8v7ugsvekf384a3xdysdr886z4
     method: GET
@@ -33,10 +37,6 @@ sites:
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"name":"GAMMA_ONE"'
-    assignees:
-      - codeskraps
-  - name: Chhoto URL
-    url: https://short.codeskraps.com
     assignees:
       - codeskraps
   # Add more websites here as needed
