@@ -48,12 +48,10 @@ sites:
   #   url: https://another-site.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.codeskraps.com
-  # baseUrl: /upptime_codeskraps_status
-  logoUrl: https://raw.githubusercontent.com/codeskraps/upptime_codeskraps_status/master/assets/favicon.ico
+  baseUrl: /
   name: Codeskraps Status
+  logoUrl: https://raw.githubusercontent.com/codeskraps/upptime_codeskraps_status/master/assets/favicon.ico
+  cname: status.codeskraps.com
   introTitle: "**Codeskraps Status** is the uptime monitor and status page for Codeskraps services."
   introMessage: This page provides real-time status information for Codeskraps services.
   navbar:
@@ -66,6 +64,7 @@ status-website:
   theme: dark # Options: light, dark, night
   themeColor: "#2fe7ed" # Primary color for the theme
   favicon: https://raw.githubusercontent.com/codeskraps/upptime_codeskraps_status/master/assets/favicon.ico
+  apiBaseUrl: https://api.github.com
   metaTags:
     - name: "description"
       content: "Codeskraps services status page - real-time monitoring"
