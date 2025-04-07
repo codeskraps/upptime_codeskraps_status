@@ -1,25 +1,5 @@
 [
   {
-    "name": "🌐 Public Websites",
-    "url": "https://demo.upptime.js.org",
-    "icon": "https://icons.duckduckgo.com/ip3/demo.upptime.js.org.ico",
-    "slug": "public-websites",
-    "status": "degraded",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 93,
-    "timeDay": 93,
-    "timeWeek": 93,
-    "timeMonth": 93,
-    "timeYear": 93,
-    "dailyMinutesDown": {
-      "2025-04-07": 0
-    }
-  },
-  {
     "name": "codeskraps.com",
     "url": "https://codeskraps.com",
     "icon": "https://icons.duckduckgo.com/ip3/codeskraps.com.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 495,
-    "timeDay": 495,
-    "timeWeek": 495,
-    "timeMonth": 495,
-    "timeYear": 495,
+    "time": 489,
+    "timeDay": 489,
+    "timeWeek": 489,
+    "timeMonth": 489,
+    "timeYear": 489,
     "dailyMinutesDown": {}
   },
   {
@@ -48,32 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 609,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
+    "time": 599,
+    "timeDay": 599,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "🔒 Private Services",
-    "url": "https://demo.upptime.js.org",
-    "icon": "https://icons.duckduckgo.com/ip3/demo.upptime.js.org.ico",
-    "slug": "private-services",
-    "status": "degraded",
-    "uptime": "5.39%",
-    "uptimeDay": "5.39%",
-    "uptimeWeek": "5.39%",
-    "uptimeMonth": "5.39%",
-    "uptimeYear": "5.39%",
-    "time": 3,
-    "timeDay": 3,
-    "timeWeek": 3,
-    "timeMonth": 3,
-    "timeYear": 3,
-    "dailyMinutesDown": {
-      "2025-04-07": 0
-    }
   },
   {
     "name": "Umami Dashboard",
@@ -86,32 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 595,
-    "timeWeek": 595,
-    "timeMonth": 595,
-    "timeYear": 595,
+    "time": 581,
+    "timeDay": 581,
+    "timeWeek": 581,
+    "timeMonth": 581,
+    "timeYear": 581,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "⛏️ Mining Services",
-    "url": "https://demo.upptime.js.org",
-    "icon": "https://icons.duckduckgo.com/ip3/demo.upptime.js.org.ico",
-    "slug": "mining-services",
-    "status": "degraded",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 3,
-    "timeDay": 3,
-    "timeWeek": 3,
-    "timeMonth": 3,
-    "timeYear": 3,
-    "dailyMinutesDown": {
-      "2025-04-07": 0
-    }
   },
   {
     "name": "Mining Worker GAMMA_ONE",
@@ -124,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 228,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 245,
+    "timeDay": 245,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   }
 ]
