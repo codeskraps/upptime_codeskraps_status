@@ -32,6 +32,7 @@ sites:
     __dangerous: true
     expectedStatusCodes:
       - 200
+    __dangerous__body_down_if_text_missing: '"name":"GAMMA_ONE"'
     assignees:
       - codeskraps
     body: |
