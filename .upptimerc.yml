@@ -1,6 +1,16 @@
 # Change these first
 owner: codeskraps # Your GitHub organization or username, where this repository lives
 repo: upptime_codeskraps_status # The name of this repository
+
+# Branch configuration
+branch: source # The branch where your configuration lives
+commitBranch: master # The branch where Upptime will commit status updates
+updateBranch: master # The branch where Upptime will update the template
+readmeBranch: master # The branch where Upptime will update the README
+graphBranch: master # The branch where Upptime will update the graphs
+commitAuthorName: "Upptime Bot"
+commitAuthorEmail: "73812536+upptime-bot@users.noreply.github.com"
+
 # Trigger setup workflow
 # Trigger setup workflow again with fixed setup.yml
 # Triggering setup workflow once more with correct workflow file
@@ -19,26 +29,12 @@ skipHomepageUpdate: true
 workflowsOnly: true
 
 sites:
-  - name: 🌐 Public Websites
-    url: https://demo.upptime.js.org
-    __dangerous: true
-    maxResponseTime: 1
   - name: codeskraps.com
     url: https://codeskraps.com
   - name: Repo
     url: https://repo.codeskraps.com/codeskraps
-
-  - name: 🔒 Private Services
-    url: https://demo.upptime.js.org
-    __dangerous: true
-    maxResponseTime: 1
   - name: Umami Dashboard
     url: https://umami.codeskraps.com/dashboard
-
-  - name: ⛏️ Mining Services
-    url: https://demo.upptime.js.org
-    __dangerous: true
-    maxResponseTime: 1
   - name: Mining Worker GAMMA_ONE
     url: https://public-pool.io:40557/api/client/bc1qly6qksz72l3l8v7ugsvekf384a3xdysdr886z4
     method: GET
@@ -68,6 +64,38 @@ status-website:
   name: Codeskraps Status
   introTitle: "**Codeskraps Status** is the uptime monitor and status page for Codeskraps services."
   introMessage: This page provides real-time status information for Codeskraps services.
+  customBodyHtml: |
+    <div class="custom-section-header" style="margin: 2rem 0 1rem; padding: 1rem; background: var(--background-secondary); border-radius: 8px;">
+      <h2 style="margin: 0; font-size: 1.5rem;">🌐 Public Websites</h2>
+      <p style="margin: 0.5rem 0 0; opacity: 0.8;">Public websites and services</p>
+    </div>
+    <div id="public-websites"></div>
+    
+    <div class="custom-section-header" style="margin: 2rem 0 1rem; padding: 1rem; background: var(--background-secondary); border-radius: 8px;">
+      <h2 style="margin: 0; font-size: 1.5rem;">🔒 Private Services</h2>
+      <p style="margin: 0.5rem 0 0; opacity: 0.8;">Internal services requiring authentication</p>
+    </div>
+    <div id="private-services"></div>
+    
+    <div class="custom-section-header" style="margin: 2rem 0 1rem; padding: 1rem; background: var(--background-secondary); border-radius: 8px;">
+      <h2 style="margin: 0; font-size: 1.5rem;">⛏️ Mining Services</h2>
+      <p style="margin: 0.5rem 0 0; opacity: 0.8;">Cryptocurrency mining monitoring</p>
+    </div>
+    <div id="mining-services"></div>
+  js: |
+    window.addEventListener('load', function() {
+      const sites = document.querySelectorAll('.site-status');
+      sites.forEach(site => {
+        const name = site.querySelector('.site-name').textContent.trim();
+        if (name === 'codeskraps.com' || name === 'Repo') {
+          document.getElementById('public-websites').appendChild(site);
+        } else if (name === 'Umami Dashboard') {
+          document.getElementById('private-services').appendChild(site);
+        } else if (name === 'Mining Worker GAMMA_ONE') {
+          document.getElementById('mining-services').appendChild(site);
+        }
+      });
+    });
   navbar:
     - title: Status
       href: /
