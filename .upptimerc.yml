@@ -19,12 +19,42 @@ skipHomepageUpdate: true
 workflowsOnly: true
 
 sites:
+  - name: 🌐 Public Websites
+    url: https://demo.upptime.js.org
+    __dangerous: true
+    maxResponseTime: 1
   - name: codeskraps.com
     url: https://codeskraps.com
   - name: Repo
     url: https://repo.codeskraps.com/codeskraps
+
+  - name: 🔒 Private Services
+    url: https://demo.upptime.js.org
+    __dangerous: true
+    maxResponseTime: 1
   - name: Umami Dashboard
     url: https://umami.codeskraps.com/dashboard
+
+  - name: ⛏️ Mining Services
+    url: https://demo.upptime.js.org
+    __dangerous: true
+    maxResponseTime: 1
+  - name: Mining Worker GAMMA_ONE
+    url: https://public-pool.io:40557/api/client/bc1qly6qksz72l3l8v7ugsvekf384a3xdysdr886z4
+    method: GET
+    __dangerous: true
+    expectedStatusCodes:
+      - 200
+    assignees:
+      - codeskraps
+    body: |
+      {
+        "workers": [
+          {
+            "name": "GAMMA_ONE"
+          }
+        ]
+      }
   # Add more websites here as needed
   # - name: Another Site
   #   url: https://another-site.com
