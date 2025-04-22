@@ -76,17 +76,19 @@
     "url": "https://public-pool.io:40557/api/client/bc1qly6qksz72l3l8v7ugsvekf384a3xdysdr886z4",
     "icon": "https://icons.duckduckgo.com/ip3/public-pool.io.ico",
     "slug": "mining-worker-gamma-one",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 376,
-    "timeDay": 345,
+    "timeDay": 354,
     "timeWeek": 364,
     "timeMonth": 376,
     "timeYear": 376,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-22": 0
+    }
   }
 ]
