@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/trade.codeskraps.com.ico",
     "slug": "freqtrade",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "96.19%",
+    "uptimeDay": "77.60%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "96.19%",
     "time": 467,
     "timeDay": 381,
     "timeWeek": 467,
     "timeMonth": 467,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2025-04-28": 21
+      "2025-04-28": 323
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://public-pool.io:40557/api/client/bc1qly6qksz72l3l8v7ugsvekf384a3xdysdr886z4",
     "icon": "https://icons.duckduckgo.com/ip3/public-pool.io.ico",
     "slug": "mining-worker-gamma-one",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 402,
-    "timeDay": 319,
-    "timeWeek": 448,
-    "timeMonth": 402,
-    "timeYear": 402,
+    "status": "up",
+    "uptime": "98.93%",
+    "uptimeDay": "77.19%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
+    "time": 397,
+    "timeDay": 290,
+    "timeWeek": 430,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2025-04-28": 27
+      "2025-04-28": 328
     }
   }
 ]
