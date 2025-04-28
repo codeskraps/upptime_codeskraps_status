@@ -76,19 +76,19 @@
     "url": "https://trade.codeskraps.com",
     "icon": "https://icons.duckduckgo.com/ip3/trade.codeskraps.com.ico",
     "slug": "freqtrade",
-    "status": "down",
-    "uptime": "96.20%",
-    "uptimeDay": "77.59%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "96.20%",
-    "uptimeYear": "96.20%",
-    "time": 469,
-    "timeDay": 423,
-    "timeWeek": 469,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "status": "up",
+    "uptime": "96.10%",
+    "uptimeDay": "76.99%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "96.10%",
+    "uptimeYear": "96.10%",
+    "time": 474,
+    "timeDay": 446,
+    "timeWeek": 474,
+    "timeMonth": 474,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2025-04-28": 323
+      "2025-04-28": 332
     }
   },
   {
