@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/codeskraps.com.ico",
     "slug": "codeskraps-com",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 478,
     "timeDay": 441,
     "timeWeek": 458,
     "timeMonth": 478,
     "timeYear": 478,
-    "dailyMinutesDown": {
-      "2025-04-29": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Repo",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.codeskraps.com.ico",
     "slug": "repo",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 582,
     "timeDay": 566,
     "timeWeek": 564,
     "timeMonth": 582,
     "timeYear": 582,
-    "dailyMinutesDown": {
-      "2025-04-29": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Umami Dashboard",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/umami.codeskraps.com.ico",
     "slug": "umami-dashboard",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 577,
     "timeDay": 554,
     "timeWeek": 574,
     "timeMonth": 577,
     "timeYear": 577,
-    "dailyMinutesDown": {
-      "2025-04-29": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Chhoto URL",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/short.codeskraps.com.ico",
     "slug": "chhoto-url",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 462,
     "timeDay": 434,
     "timeWeek": 444,
     "timeMonth": 462,
     "timeYear": 462,
-    "dailyMinutesDown": {
-      "2025-04-29": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Freqtrade",
@@ -85,18 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/trade.codeskraps.com.ico",
     "slug": "freqtrade",
     "status": "up",
-    "uptime": "96.34%",
-    "uptimeDay": "77.41%",
-    "uptimeWeek": "96.34%",
-    "uptimeMonth": "96.34%",
-    "uptimeYear": "96.34%",
+    "uptime": "96.56%",
+    "uptimeDay": "94.61%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "96.56%",
+    "uptimeYear": "96.56%",
     "time": 478,
-    "timeDay": 500,
+    "timeDay": 518,
     "timeWeek": 478,
     "timeMonth": 478,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2025-04-29": 8,
       "2025-04-28": 339
     }
   },
@@ -105,18 +96,19 @@
     "url": "https://public-pool.io:40557/api/client/bc1qly6qksz72l3l8v7ugsvekf384a3xdysdr886z4",
     "icon": "https://icons.duckduckgo.com/ip3/public-pool.io.ico",
     "slug": "mining-worker-gamma-one",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "77.19%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "95.71%",
     "uptimeWeek": "96.74%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
-    "time": 396,
-    "timeDay": 311,
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "98.97%",
+    "time": 394,
+    "timeDay": 305,
     "timeWeek": 433,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "timeMonth": 394,
+    "timeYear": 394,
     "dailyMinutesDown": {
+      "2025-04-29": 0,
       "2025-04-28": 328
     }
   }
