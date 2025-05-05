@@ -77,21 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/public-pool.io.ico",
     "slug": "mining-worker-gamma-one",
     "status": "up",
-    "uptime": "95.64%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.79%",
-    "uptimeMonth": "95.64%",
-    "uptimeYear": "95.64%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 380,
     "timeDay": 289,
-    "timeWeek": 317,
+    "timeWeek": 326,
     "timeMonth": 380,
     "timeYear": 380,
-    "dailyMinutesDown": {
-      "2025-04-30": 914,
-      "2025-04-29": 524,
-      "2025-04-28": 328
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jellyfin Escolt",
@@ -152,17 +148,19 @@
     "url": "https://trade.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/trade.escolt.eu.ico",
     "slug": "freqtrade-escolt",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 479,
-    "timeWeek": 479,
-    "timeMonth": 479,
-    "timeYear": 479,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 594,
+    "timeDay": 594,
+    "timeWeek": 594,
+    "timeMonth": 594,
+    "timeYear": 594,
+    "dailyMinutesDown": {
+      "2025-05-05": 0
+    }
   }
 ]
