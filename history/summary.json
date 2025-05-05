@@ -148,19 +148,19 @@
     "url": "https://trade.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/trade.escolt.eu.ico",
     "slug": "freqtrade-escolt",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 594,
-    "timeDay": 594,
-    "timeWeek": 594,
-    "timeMonth": 594,
-    "timeYear": 594,
+    "status": "up",
+    "uptime": "96.00%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "96.00%",
+    "uptimeYear": "96.00%",
+    "time": 586,
+    "timeDay": 586,
+    "timeWeek": 586,
+    "timeMonth": 586,
+    "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-05-05": 0
+      "2025-05-05": 10
     }
   }
 ]
