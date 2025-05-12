@@ -1,7 +1,7 @@
 url: https://public-pool.io:40557/api/client/bc1qly6qksz72l3l8v7ugsvekf384a3xdysdr886z4
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-12T16:39:52.839Z
+status: up
+code: 200
+responseTime: 310
+lastUpdated: 2025-05-12T17:20:34.612Z
 startTime: 2025-04-07T10:26:24.347Z
 generator: Upptime <https://github.com/upptime/upptime>
