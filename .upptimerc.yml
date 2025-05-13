@@ -22,6 +22,8 @@ workflowsOnly: true
 sites:
   - name: codeskraps.com
     url: https://codeskraps.com
+  - name: Tracks
+    url: https://tracks.codeskraps.com
   - name: Repo
     url: https://repo.codeskraps.com/codeskraps
   - name: Umami Dashboard
