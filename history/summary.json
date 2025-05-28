@@ -96,7 +96,7 @@
     "slug": "mining-worker-gamma-one",
     "status": "up",
     "uptime": "94.90%",
-    "uptimeDay": "82.78%",
+    "uptimeDay": "83.44%",
     "uptimeWeek": "85.34%",
     "uptimeMonth": "91.47%",
     "uptimeYear": "94.90%",
@@ -120,19 +120,19 @@
     "url": "https://escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/escolt.eu.ico",
     "slug": "jellyfin-escolt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 697,
-    "timeDay": 601,
-    "timeWeek": 863,
+    "timeDay": 619,
+    "timeWeek": 844,
     "timeMonth": 697,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2025-05-28": 1
+      "2025-05-28": 9
     }
   },
   {
@@ -162,18 +162,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.escolt.eu.ico",
     "slug": "libre-photos-escolt",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 586,
     "timeDay": 441,
     "timeWeek": 749,
     "timeMonth": 586,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-05-28": 0
+      "2025-05-28": 10
     }
   },
   {
@@ -181,9 +181,9 @@
     "url": "https://trade.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/trade.escolt.eu.ico",
     "slug": "freqtrade-escolt",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "98.83%",
@@ -193,6 +193,7 @@
     "timeMonth": 588,
     "timeYear": 588,
     "dailyMinutesDown": {
+      "2025-05-28": 0,
       "2025-05-07": 384
     }
   }
