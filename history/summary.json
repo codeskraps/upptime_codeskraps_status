@@ -96,7 +96,7 @@
     "slug": "mining-worker-gamma-one",
     "status": "up",
     "uptime": "94.90%",
-    "uptimeDay": "81.83%",
+    "uptimeDay": "82.78%",
     "uptimeWeek": "85.34%",
     "uptimeMonth": "91.47%",
     "uptimeYear": "94.90%",
@@ -120,10 +120,10 @@
     "url": "https://escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/escolt.eu.ico",
     "slug": "jellyfin-escolt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 697,
@@ -131,7 +131,9 @@
     "timeWeek": 863,
     "timeMonth": 697,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-28": 1
+    }
   },
   {
     "name": "Jellyfin TV Escolt",
@@ -159,9 +161,9 @@
     "url": "https://photos.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/photos.escolt.eu.ico",
     "slug": "libre-photos-escolt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -170,7 +172,9 @@
     "timeWeek": 749,
     "timeMonth": 586,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-28": 0
+    }
   },
   {
     "name": "Freqtrade Escolt",
@@ -178,18 +182,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/trade.escolt.eu.ico",
     "slug": "freqtrade-escolt",
     "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
+    "uptime": "98.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "98.83%",
     "time": 588,
     "timeDay": 473,
     "timeWeek": 674,
     "timeMonth": 588,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-05-28": 11,
       "2025-05-07": 384
     }
   }
