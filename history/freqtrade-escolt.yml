@@ -1,7 +1,7 @@
 url: https://trade.escolt.eu
-status: up
-code: 200
-responseTime: 447
-lastUpdated: 2025-05-28T06:53:17.790Z
+status: down
+code: 502
+responseTime: 479
+lastUpdated: 2025-05-28T07:00:13.622Z
 startTime: 2025-05-05T13:02:13.383Z
 generator: Upptime <https://github.com/upptime/upptime>
