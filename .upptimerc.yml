@@ -32,23 +32,23 @@ sites:
     url: https://short.codeskraps.com
     assignees:
       - codeskraps
-  - name: Mining Worker GAMMA_ONE
-    url: https://public-pool.io:40557/api/client/bc1qly6qksz72l3l8v7ugsvekf384a3xdysdr886z4
-    method: GET
-    __dangerous: true
-    expectedStatusCodes:
-      - 200
-    __dangerous__body_down_if_text_missing: '"name":"GAMMA_ONE"'
-    assignees:
-      - codeskraps
+  # - name: Mining Worker GAMMA_ONE
+  #   url: https://public-pool.io:40557/api/client/bc1qly6qksz72l3l8v7ugsvekf384a3xdysdr886z4
+  #   method: GET
+  #   __dangerous: true
+  #   expectedStatusCodes:
+  #     - 200
+  #   __dangerous__body_down_if_text_missing: '"name":"GAMMA_ONE"'
+  #   assignees:
+  #     - codeskraps
   - name: Jellyfin Escolt
     url: https://escolt.eu
   - name: Jellyfin TV Escolt
     url: https://tv.escolt.eu
   - name: LibrePhotos Escolt
     url: https://photos.escolt.eu
-  - name: Freqtrade Escolt
-    url: https://trade.escolt.eu
+  # - name: Freqtrade Escolt
+  #   url: https://trade.escolt.eu
   # Add more websites here as needed
   # - name: Another Site
   #   url: https://another-site.com
