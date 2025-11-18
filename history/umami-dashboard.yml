@@ -1,7 +1,7 @@
 url: https://umami.codeskraps.com/dashboard
-status: up
-code: 200
-responseTime: 710
-lastUpdated: 2025-11-17T23:07:26.665Z
+status: down
+code: 502
+responseTime: 527
+lastUpdated: 2025-11-18T16:48:45.553Z
 startTime: 2025-04-06T15:29:56.394Z
 generator: Upptime <https://github.com/upptime/upptime>
