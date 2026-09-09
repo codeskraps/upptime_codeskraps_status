@@ -103,12 +103,12 @@
     "url": "https://escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/escolt.eu.ico",
     "slug": "jellyfin-escolt",
-    "status": "up",
+    "status": "down",
     "uptime": "94.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "72.76%",
-    "uptimeYear": "97.49%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "72.74%",
+    "uptimeYear": "97.48%",
     "time": 891,
     "timeDay": 1216,
     "timeWeek": 1182,
@@ -129,7 +129,8 @@
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
-      "2026-08-21": 667
+      "2026-08-21": 667,
+      "2026-09-09": 10
     }
   },
   {
@@ -137,11 +138,11 @@
     "url": "https://tv.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/tv.escolt.eu.ico",
     "slug": "jellyfin-tv-escolt",
-    "status": "up",
-    "uptime": "94.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "72.76%",
+    "status": "down",
+    "uptime": "94.31%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "72.75%",
     "uptimeYear": "97.49%",
     "time": 864,
     "timeDay": 1274,
@@ -163,7 +164,8 @@
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
-      "2026-08-21": 667
+      "2026-08-21": 667,
+      "2026-09-09": 5
     }
   },
   {
@@ -171,13 +173,13 @@
     "url": "https://photos.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/photos.escolt.eu.ico",
     "slug": "libre-photos-escolt",
-    "status": "up",
-    "uptime": "96.00%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.01%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 637,
+    "time": 638,
     "timeDay": 523,
     "timeWeek": 522,
     "timeMonth": 592,
@@ -187,7 +189,8 @@
       "2025-12-22": 118,
       "2026-01-29": 381,
       "2026-03-25": 20,
-      "2026-03-30": 17
+      "2026-03-30": 17,
+      "2026-09-09": 0
     }
   }
 ]
