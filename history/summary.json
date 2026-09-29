@@ -13,7 +13,7 @@
     "time": 470,
     "timeDay": 593,
     "timeWeek": 425,
-    "timeMonth": 463,
+    "timeMonth": 461,
     "timeYear": 473,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 680,
     "timeDay": 957,
     "timeWeek": 801,
-    "timeMonth": 820,
+    "timeMonth": 819,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2025-11-30": 19,
@@ -53,7 +53,7 @@
     "time": 942,
     "timeDay": 1106,
     "timeWeek": 961,
-    "timeMonth": 987,
+    "timeMonth": 985,
     "timeYear": 1046,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 581,
     "timeDay": 520,
     "timeWeek": 494,
-    "timeMonth": 540,
+    "timeMonth": 539,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2025-12-07": 1422,
@@ -93,7 +93,7 @@
     "time": 452,
     "timeDay": 550,
     "timeWeek": 430,
-    "timeMonth": 444,
+    "timeMonth": 443,
     "timeYear": 454,
     "dailyMinutesDown": {}
   },
@@ -102,16 +102,16 @@
     "url": "https://escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/escolt.eu.ico",
     "slug": "jellyfin-escolt",
-    "status": "up",
-    "uptime": "93.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.22%",
+    "status": "down",
+    "uptime": "93.63%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "82.31%",
     "uptimeYear": "96.22%",
     "time": 908,
     "timeDay": 1092,
     "timeWeek": 1110,
-    "timeMonth": 1086,
+    "timeMonth": 1105,
     "timeYear": 934,
     "dailyMinutesDown": {
       "2025-10-20": 719,
@@ -133,7 +133,8 @@
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
-      "2026-09-09": 1127
+      "2026-09-09": 1127,
+      "2026-09-29": 10
     }
   },
   {
@@ -141,16 +142,16 @@
     "url": "https://tv.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/tv.escolt.eu.ico",
     "slug": "jellyfin-tv-escolt",
-    "status": "up",
-    "uptime": "93.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.23%",
+    "status": "down",
+    "uptime": "93.63%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "82.34%",
     "uptimeYear": "96.22%",
     "time": 875,
     "timeDay": 958,
     "timeWeek": 902,
-    "timeMonth": 1013,
+    "timeMonth": 1025,
     "timeYear": 895,
     "dailyMinutesDown": {
       "2025-10-20": 721,
@@ -172,7 +173,8 @@
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
-      "2026-09-09": 1123
+      "2026-09-09": 1123,
+      "2026-09-29": 5
     }
   },
   {
@@ -180,17 +182,17 @@
     "url": "https://photos.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/photos.escolt.eu.ico",
     "slug": "libre-photos-escolt",
-    "status": "up",
-    "uptime": "95.25%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.26%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.87%",
     "uptimeYear": "98.51%",
     "time": 640,
     "timeDay": 666,
     "timeWeek": 511,
-    "timeMonth": 558,
-    "timeYear": 645,
+    "timeMonth": 557,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-10-20": 691,
       "2025-12-22": 118,
@@ -201,7 +203,8 @@
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
-      "2026-09-09": 1118
+      "2026-09-09": 1118,
+      "2026-09-29": 0
     }
   }
 ]
