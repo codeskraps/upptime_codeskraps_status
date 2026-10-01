@@ -35,6 +35,8 @@ sites:
     url: https://umami.codeskraps.com/dashboard
   - name: Beszel
     url: https://watch.codeskraps.com
+  - name: ops dashboard
+    url: https://ops.codeskraps.com/healthz
   - name: AdventureLog
     url: https://trip.codeskraps.com
   - name: Tracks
