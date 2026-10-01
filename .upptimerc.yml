@@ -20,38 +20,51 @@ skipHomepageUpdate: true
 workflowsOnly: true
 
 sites:
+  # --- me (DigitalOcean droplet, codeskraps.com) ---
   - name: codeskraps.com
     url: https://codeskraps.com
-  - name: Tracks
-    url: https://tracks.codeskraps.com
   - name: Repo
     url: https://repo.codeskraps.com/codeskraps
+  - name: Vaultwarden
+    url: https://vault.codeskraps.com/alive
+  - name: Taxchain
+    url: https://taxchain.codeskraps.com
+  - name: GlitchTip
+    url: https://crash.codeskraps.com
   - name: Umami Dashboard
     url: https://umami.codeskraps.com/dashboard
+  - name: Beszel
+    url: https://watch.codeskraps.com
+  - name: AdventureLog
+    url: https://trip.codeskraps.com
+  - name: Tracks
+    url: https://tracks.codeskraps.com
+  - name: PrivateBin
+    url: https://paste.codeskraps.com
   - name: Chhoto URL
     url: https://short.codeskraps.com
     assignees:
       - codeskraps
-  # - name: Mining Worker GAMMA_ONE
-  #   url: https://public-pool.io:40557/api/client/bc1qly6qksz72l3l8v7ugsvekf384a3xdysdr886z4
-  #   method: GET
-  #   __dangerous: true
-  #   expectedStatusCodes:
-  #     - 200
-  #   __dangerous__body_down_if_text_missing: '"name":"GAMMA_ONE"'
-  #   assignees:
-  #     - codeskraps
+  - name: Clock-in
+    url: https://clock.codeskraps.com
+  - name: Copytrade
+    url: https://copy.codeskraps.com
+  - name: FreqDroid
+    url: https://freqdroid.com
+  - name: FreqDroid Push
+    url: https://push.freqdroid.com/health
+  - name: La vida amb vosaltres
+    url: https://lavidaambvosaltres.com
+  - name: Hyprr
+    url: https://hyprr.cat
+
+  # --- gandalf (home media center, escolt.eu) ---
   - name: Jellyfin Escolt
     url: https://escolt.eu
   - name: Jellyfin TV Escolt
     url: https://tv.escolt.eu
   - name: LibrePhotos Escolt
     url: https://photos.escolt.eu
-  # - name: Freqtrade Escolt
-  #   url: https://trade.escolt.eu
-  # Add more websites here as needed
-  # - name: Another Site
-  #   url: https://another-site.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
