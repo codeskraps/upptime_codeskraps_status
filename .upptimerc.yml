@@ -43,6 +43,8 @@ sites:
     url: https://tracks.codeskraps.com
   - name: PrivateBin
     url: https://paste.codeskraps.com
+  - name: Gokapi
+    url: https://share.codeskraps.com
   - name: Chhoto URL
     url: https://short.codeskraps.com
     assignees:
