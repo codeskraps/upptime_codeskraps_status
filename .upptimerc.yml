@@ -37,8 +37,8 @@ sites:
     url: https://watch.codeskraps.com
   - name: ops dashboard
     url: https://ops.codeskraps.com/healthz
-  - name: AdventureLog
-    url: https://trip.codeskraps.com
+  - name: TREK
+    url: https://trek.codeskraps.com/api/health
   - name: Tracks
     url: https://tracks.codeskraps.com
   - name: PrivateBin
