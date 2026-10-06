@@ -355,7 +355,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/escolt.eu.ico",
     "slug": "jellyfin-escolt",
     "status": "up",
-    "uptime": "93.71%",
+    "uptime": "93.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.67%",
@@ -434,16 +434,16 @@
     "url": "https://photos.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/photos.escolt.eu.ico",
     "slug": "libre-photos-escolt",
-    "status": "up",
+    "status": "down",
     "uptime": "95.32%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.71%",
     "uptimeYear": "98.49%",
-    "time": 636,
-    "timeDay": 441,
-    "timeWeek": 525,
-    "timeMonth": 522,
+    "time": 635,
+    "timeDay": 492,
+    "timeWeek": 531,
+    "timeMonth": 524,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2025-10-20": 691,
@@ -456,7 +456,8 @@
       "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1118,
-      "2026-09-29": 69
+      "2026-09-29": 69,
+      "2026-10-06": 0
     }
   }
 ]
