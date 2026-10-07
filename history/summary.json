@@ -170,13 +170,13 @@
     "url": "https://tracks.codeskraps.com",
     "icon": "https://icons.duckduckgo.com/ip3/tracks.codeskraps.com.ico",
     "slug": "tracks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 686,
+    "time": 687,
     "timeDay": 935,
     "timeWeek": 851,
     "timeMonth": 832,
@@ -184,7 +184,8 @@
     "dailyMinutesDown": {
       "2025-11-30": 19,
       "2025-12-03": 18,
-      "2026-02-25": 24
+      "2026-02-25": 24,
+      "2026-10-07": 0
     }
   },
   {
@@ -435,7 +436,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.escolt.eu.ico",
     "slug": "libre-photos-escolt",
     "status": "up",
-    "uptime": "95.20%",
+    "uptime": "95.21%",
     "uptimeDay": "35.23%",
     "uptimeWeek": "90.75%",
     "uptimeMonth": "82.59%",
@@ -444,7 +445,7 @@
     "timeDay": 574,
     "timeWeek": 536,
     "timeMonth": 524,
-    "timeYear": 639,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2025-10-20": 691,
       "2025-12-22": 118,
