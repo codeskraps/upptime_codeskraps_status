@@ -39,8 +39,6 @@ sites:
     url: https://ops.codeskraps.com/healthz
   - name: TREK
     url: https://trek.codeskraps.com/api/health
-  - name: Tracks
-    url: https://tracks.codeskraps.com
   - name: PrivateBin
     url: https://paste.codeskraps.com
   - name: Gokapi
