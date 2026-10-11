@@ -332,13 +332,13 @@
     "url": "https://escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/escolt.eu.ico",
     "slug": "jellyfin-escolt",
-    "status": "up",
+    "status": "down",
     "uptime": "93.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.94%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "91.54%",
     "uptimeYear": "96.21%",
-    "time": 922,
+    "time": 923,
     "timeDay": 1354,
     "timeWeek": 1142,
     "timeMonth": 1112,
@@ -364,7 +364,8 @@
       "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1127,
-      "2026-09-29": 78
+      "2026-09-29": 78,
+      "2026-10-11": 10
     }
   },
   {
@@ -372,11 +373,11 @@
     "url": "https://tv.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/tv.escolt.eu.ico",
     "slug": "jellyfin-tv-escolt",
-    "status": "up",
-    "uptime": "93.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.95%",
+    "status": "down",
+    "uptime": "93.77%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "91.57%",
     "uptimeYear": "96.21%",
     "time": 886,
     "timeDay": 1405,
@@ -404,7 +405,8 @@
       "2026-09-11": 1440,
       "2026-09-10": 1440,
       "2026-09-09": 1123,
-      "2026-09-29": 74
+      "2026-09-29": 74,
+      "2026-10-11": 5
     }
   },
   {
@@ -412,11 +414,11 @@
     "url": "https://photos.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/photos.escolt.eu.ico",
     "slug": "libre-photos-escolt",
-    "status": "up",
+    "status": "down",
     "uptime": "95.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.75%",
-    "uptimeMonth": "88.83%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "90.74%",
+    "uptimeMonth": "89.46%",
     "uptimeYear": "98.32%",
     "time": 635,
     "timeDay": 993,
@@ -436,7 +438,8 @@
       "2026-09-09": 1118,
       "2026-09-29": 69,
       "2026-10-07": 723,
-      "2026-10-06": 209
+      "2026-10-06": 209,
+      "2026-10-11": 0
     }
   }
 ]
