@@ -332,16 +332,16 @@
     "url": "https://escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/escolt.eu.ico",
     "slug": "jellyfin-escolt",
-    "status": "down",
-    "uptime": "93.77%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "91.54%",
-    "uptimeYear": "96.21%",
+    "status": "up",
+    "uptime": "93.72%",
+    "uptimeDay": "71.74%",
+    "uptimeWeek": "95.96%",
+    "uptimeMonth": "91.55%",
+    "uptimeYear": "96.13%",
     "time": 923,
-    "timeDay": 1354,
-    "timeWeek": 1142,
-    "timeMonth": 1112,
+    "timeDay": 1020,
+    "timeWeek": 1100,
+    "timeMonth": 1100,
     "timeYear": 946,
     "dailyMinutesDown": {
       "2025-10-20": 719,
@@ -365,7 +365,7 @@
       "2026-09-10": 1440,
       "2026-09-09": 1127,
       "2026-09-29": 78,
-      "2026-10-11": 10
+      "2026-10-11": 407
     }
   },
   {
@@ -373,17 +373,17 @@
     "url": "https://tv.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/tv.escolt.eu.ico",
     "slug": "jellyfin-tv-escolt",
-    "status": "down",
-    "uptime": "93.77%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
+    "status": "up",
+    "uptime": "93.72%",
+    "uptimeDay": "72.07%",
+    "uptimeWeek": "96.01%",
     "uptimeMonth": "91.57%",
-    "uptimeYear": "96.21%",
+    "uptimeYear": "96.13%",
     "time": 886,
-    "timeDay": 1405,
-    "timeWeek": 1032,
-    "timeMonth": 1012,
-    "timeYear": 903,
+    "timeDay": 1065,
+    "timeWeek": 1004,
+    "timeMonth": 1004,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2025-10-20": 721,
       "2025-12-01": 23,
@@ -406,7 +406,7 @@
       "2026-09-10": 1440,
       "2026-09-09": 1123,
       "2026-09-29": 74,
-      "2026-10-11": 5
+      "2026-10-11": 402
     }
   },
   {
@@ -414,16 +414,16 @@
     "url": "https://photos.escolt.eu",
     "icon": "https://icons.duckduckgo.com/ip3/photos.escolt.eu.ico",
     "slug": "libre-photos-escolt",
-    "status": "down",
-    "uptime": "95.24%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "90.74%",
+    "status": "up",
+    "uptime": "95.19%",
+    "uptimeDay": "72.41%",
+    "uptimeWeek": "86.81%",
     "uptimeMonth": "89.46%",
-    "uptimeYear": "98.32%",
+    "uptimeYear": "98.24%",
     "time": 635,
-    "timeDay": 993,
-    "timeWeek": 552,
-    "timeMonth": 535,
+    "timeDay": 681,
+    "timeWeek": 538,
+    "timeMonth": 531,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2025-10-20": 691,
@@ -439,7 +439,7 @@
       "2026-09-29": 69,
       "2026-10-07": 723,
       "2026-10-06": 209,
-      "2026-10-11": 0
+      "2026-10-11": 397
     }
   }
 ]
