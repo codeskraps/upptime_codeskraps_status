@@ -65,8 +65,6 @@ sites:
     url: https://escolt.eu
   - name: Jellyfin TV Escolt
     url: https://tv.escolt.eu
-  - name: LibrePhotos Escolt
-    url: https://photos.escolt.eu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
