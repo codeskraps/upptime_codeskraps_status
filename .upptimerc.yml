@@ -59,6 +59,17 @@ sites:
     url: https://lavidaambvosaltres.com
   - name: Hyprr
     url: https://hyprr.cat
+  # Gas On Route (fuel app) routing + place search: only the app's requests carry the key, so a
+  # request without it must get 403. That proves DNS, cert, nginx and the lock; me/health.py
+  # checks the backends themselves (mysystem me/gasonroute/).
+  - name: Gas On Route OSRM
+    url: https://osrm.codeskraps.com/route/v1/driving/-3.7035,40.4169;-0.8891,41.6488?overview=false
+    expectedStatusCodes:
+      - 403
+  - name: Gas On Route Photon
+    url: https://photon.codeskraps.com/api?q=Zaragoza
+    expectedStatusCodes:
+      - 403
 
 
 status-website:
