@@ -63,6 +63,9 @@ sites:
     url: https://fonts.codeskraps.com
   - name: Tally
     url: https://tally.codeskraps.com
+  # Tuckwall (card-deck catalog, its own droplet): /healthz checks Postgres and Redis.
+  - name: Tuckwall
+    url: https://tuckwall.com/healthz
   # Gas On Route (fuel app) routing + place search: only the app's requests carry the key, so a
   # request without it must get 403. That proves DNS, cert, nginx and the lock; me/health.py
   # checks the backends themselves (mysystem me/gasonroute/).
