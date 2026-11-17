@@ -24,7 +24,7 @@ sites:
   - name: codeskraps.com
     url: https://codeskraps.com
   - name: Repo
-    url: https://repo.codeskraps.com/codeskraps
+    url: https://git.codeskraps.com/codeskraps   # Gogs; repo.codeskraps.com is the rbit trial since 2026-11-17
   - name: Vaultwarden
     url: https://vault.codeskraps.com/alive
   - name: Taxchain
