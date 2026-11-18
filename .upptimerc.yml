@@ -28,7 +28,7 @@ sites:
   - name: Vaultwarden
     url: https://vault.codeskraps.com/alive
   - name: Taxchain
-    url: https://taxchain.codeskraps.com
+    url: https://taxchain.eu
   - name: GlitchTip
     url: https://crash.codeskraps.com
   - name: Umami Dashboard
